@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+To do list so you can keep track of tasks.
 
 ## Getting Started
 
