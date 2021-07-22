@@ -1,6 +1,4 @@
-# ToDoList
-
-# To Do List
+# To Do List Project
 
 Simple overview of use/purpose.
 
