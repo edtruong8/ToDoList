@@ -8,21 +8,7 @@ To do list so you can keep track of tasks.
 
 ## Getting Started
 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advice for common problems or issues.
-```
-command to run if program contains helper info
-```
+Type your task in the bar at the bottom and once you submit, you can delete or favorite a certain task to make it stand out.
 
 ## Authors
 
